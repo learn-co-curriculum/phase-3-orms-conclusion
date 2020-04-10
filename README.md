@@ -7,7 +7,7 @@ several times. With Object-relational-mapping, we are able to write those and
 more complicated SQL queries we're familiar with, with less code using Ruby.
 
 We've learned the many benefits of ORMs such as: Abstracting database logic,
-code that can insert into data into the database, find and update existing
+code that can insert data into the database, find and update existing
 database records when changes are made its related Ruby object, identify whether
 or not a Ruby object has already been persisted to the database (and add it if
 not). We can map a database table to a Ruby object as well as can make Ruby
