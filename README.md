@@ -1,4 +1,4 @@
-# ORMs in Conclusion
+# Object-Relational Mapping Conclusion
 
 Now that we've discussed Object-Relational-Mappers in depth, it should feel a
 little less intimidating. We've established that they can make it easier to
